@@ -9,6 +9,9 @@ function footer() {
       <h1>
         yo
       </h1>
+      <h2>
+        fdfds
+      </h2>
     </footer>
   );
 }
