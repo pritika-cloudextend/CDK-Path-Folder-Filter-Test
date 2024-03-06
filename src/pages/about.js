@@ -12,6 +12,9 @@ function about() {
             hihi
         </ul>
       </li>
+      <h1>
+        ghghh
+      </h1>
     </section>
   );
 }
