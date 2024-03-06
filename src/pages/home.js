@@ -8,6 +8,7 @@ function home() {
       <p>
         dfde
       </p>
+      <p>fdfdd</p>
     </section>
   );
 }

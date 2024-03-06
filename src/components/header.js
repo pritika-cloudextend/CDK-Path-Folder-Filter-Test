@@ -7,6 +7,7 @@ function header() {
       <p> Hello mister!</p>
       <p> Hello hello hello</p>
       <h1>dfd</h1>
+      <h2>fdsfdsfd</h2>
     </header>
   );
 }
