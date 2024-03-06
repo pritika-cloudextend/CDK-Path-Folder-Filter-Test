@@ -7,6 +7,11 @@ function about() {
       <p>This is the About Page of My App.</p>
       <p> This ia the page about.</p>
       <p> hiiiiiiii</p>
+      <li>
+        <ul>
+            hihi
+        </ul>
+      </li>
     </section>
   );
 }
