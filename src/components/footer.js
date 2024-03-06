@@ -6,6 +6,7 @@ function footer() {
       <p>&copy; 2024 My App</p>
       <p> Hello I like coding.</p>
       <p> hellossss</p>
+      <h2>hgjh</h2>
       <h1>
         yo
       </h1>
