@@ -8,6 +8,8 @@ function about() {
       <p> This ia the page about.</p>
       <p> hiiiiiiii</p>
       <h2>hello yellow green</h2>
+      <h2>hello yellow green</h2>
+
       <li>
         <ul>
             hihi
