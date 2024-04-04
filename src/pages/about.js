@@ -13,6 +13,7 @@ function about() {
       <p> hiiiiiiii</p>
       <p> hiiiiiiii</p>
       <p> hiiiiiiii</p>
+      <p> hiiiiiiii</p>
 
       <p> hiiiiiiii</p>
 
