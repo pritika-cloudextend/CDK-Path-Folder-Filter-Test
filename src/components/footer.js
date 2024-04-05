@@ -13,6 +13,8 @@ function footer() {
       <p> Hello I like coding.</p>
       <p> Hello I like coding.</p>
       <p> Hello I like coding.</p>
+      <p> Hello I like coding.</p>
+      <p> Hello I like coding.</p>
 
       <p> hellossss</p>
       <p> hellossss</p>
