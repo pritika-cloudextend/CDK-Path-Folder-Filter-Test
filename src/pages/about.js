@@ -13,6 +13,7 @@ function about() {
       <p> This ia the page about.</p>
       <p> This ia the page about.</p>
       <p> This ia the page about.</p>
+      <p> This ia the page about.</p>
 
       <p> This ia the page about.</p>
       <p> hiiiiiiii</p>
