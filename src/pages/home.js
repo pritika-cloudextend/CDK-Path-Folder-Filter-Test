@@ -11,7 +11,7 @@ function home() {
       <p>Welcome to the Home Page of My App!</p>
       <p>Welcome to the Home Page of My App!</p>
       <p>Welcome to the Home Page of My App!</p>
-
+      <p>Welcome to the Home Page of My App!</p>
 
 
 

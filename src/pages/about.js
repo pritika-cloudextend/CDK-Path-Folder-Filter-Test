@@ -8,6 +8,7 @@ function about() {
 
       <p>This is the About Page of My App.</p>
       <p>This is the About Page of My App.</p>
+      <p> This ia the page about.</p>
 
       <p> This ia the page about.</p>
       <p> This ia the page about.</p>
