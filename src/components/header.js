@@ -13,6 +13,7 @@ function header() {
       <p> Hello hello hello</p>
       <h1>dfd</h1>
       <h1>dfd</h1>
+      <h2>fdsfdsfd</h2>
 
       <h2>fdsfdsfd</h2>
     </header>

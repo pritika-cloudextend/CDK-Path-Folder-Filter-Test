@@ -19,6 +19,7 @@ function footer() {
 
       <p> hellossss</p>
       <p> hellossss</p>
+      <h2>hgjh</h2>
 
       <h2>hgjh</h2>
       <h1>ggdfdf</h1>
