@@ -4,4 +4,6 @@ console.log("Script loaded");
 document.addEventListener("DOMContentLoaded", function() {
     alert("Welcome to My App!");
     alert("Welcome to My App!");
+    alert("Welcome to My App!");
+
 });
